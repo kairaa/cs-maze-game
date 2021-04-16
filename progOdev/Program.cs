@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace progOdev
+namespace MazeGame
                         // camelCase standardı kullanılmıştır
 {
     class Program

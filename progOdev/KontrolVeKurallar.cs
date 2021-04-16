@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace progOdev
+namespace MazeGame
                             // camelCase standardı kullanılmıştır
 {
     class KontrolVeKurallar
